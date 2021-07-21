@@ -18,5 +18,15 @@
         "backend_maintenance": "后端维护",
         "backend_maintenance_body": "后端正在维护。下次连接成功前相同警告将不再显示",
         "at": "于"
+    },
+    "es": {
+        "network_error": "Error de red",
+        "backend_error": "Error de back-end",
+        "backend_error_body": "El servidor back-end ha enviado datos inanalizable. El mismo error no se mostrará otra vez hasta conectarse correctamente",
+        "version_error": "Versión de back-end no compatible, intente actualizar su front-end y comuníquese con el administrador. El mismo error no se mostrará otra vez hasta conectarse correctamente",
+        "request_error": "Solicitud de error",
+        "backend_maintenance": "Back-end en mantenimiento",
+        "backend_maintenance_body": "Back-end en mantenimiento. El mismo error no se mostrará otra vez hasta conectarse correctamente",
+        "at": "en"
     }
 }

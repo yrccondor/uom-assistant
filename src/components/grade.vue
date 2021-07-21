@@ -1209,6 +1209,18 @@ export default {
         "etc": "等",
         "total": "共 %d 项",
         "formative": "不计入总分"
+    },
+    "es": {
+        "grade": "Resumen de notas",
+        "nothing": "No hay nada todavía",
+        "network_error_body": "No ha sido posible obtener las últimas notas y datos de asistencias desde el servidor back-end",
+        "cannot_fetch": "No ha sido posible obtener los datos de las notas, posiblemente debido a la una configuración inapropiada del servidor back-end o por falta de permisión.",
+        "learn_more": "Saber más",
+        "empty_subject": "Asignatura sin calificaciones todavía",
+        "more_info": "Más",
+        "etc": "etc.",
+        "total": "{0} en total",
+        "formative": "Formativa"
     }
 }
 </i18n>

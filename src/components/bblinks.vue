@@ -357,7 +357,7 @@ export default {
         "add_link": "Add a link",
         "link_format": "URL[ name]",
         "nothing": "No link here",
-        "no_class": "No sourse yet",
+        "no_class": "No course yet",
         "subjects": "Courses",
         "portals": "Portals",
         "custom": "Customize"
@@ -371,6 +371,16 @@ export default {
         "subjects": "科目主页",
         "portals": "系统主页",
         "custom": "自定义"
+    },
+    "es": {
+        "quick_links": "Enlances rápidos",
+        "add_link": "Añadir un enlace",
+        "link_format": "URL[ nombre]",
+        "nothing": "No enlaces disponibles",
+        "no_class": "No asignaturas todavía",
+        "subjects": "Asignaturas",
+        "portals": "Portales",
+        "custom": "Personalizado"
     }
 }
 </i18n>

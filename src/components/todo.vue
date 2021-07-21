@@ -329,6 +329,9 @@ export default {
     },
     "zh": {
         "add_todo": "添加一个待办"
+    },
+    "es": {
+        "add_todo": "Añadir un PARA-HACER"
     }
 }
 </i18n>

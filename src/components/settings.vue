@@ -244,6 +244,22 @@ export default {
         "privacy_policy": "隐私政策",
         "privacy_policy_body": "在未打开“同步设置”选项的情况下，<strong>后端不会存储或保留你的任何曼大账户信息</strong>，包括用户名、密码、邮箱、成绩等。但为了从曼大系统中获取你的成绩、邮件、出席等信息，你的曼大账户信息会被安全地传输至后端（但不会被保留）。<br><br>在打开“同步设置”选项时，<strong>后端会存储你的用户名、密码和邮箱</strong>，但不会存储其他任何信息。",
         "ok": "好"
+    },
+    "es": {
+        "calendar_subscription": "Subscripción de Calendario",
+        "uom_username": "UoM nombre de usuario",
+        "uom_email": "UoM correo",
+        "uom_password": "UoM contraseña de cuenta",
+        "allow_save": "Usar este servidor back-end para sincronizar ajustes",
+        "will_store_on": "Habilitado permitirá el servidor back-end guardar la información de su cuenta UoM",
+        "not_allow_account": "Este servidor back-end no permite guardar la cuenta UoM",
+        "not_allow_email": "Este servidor back-end no permite la sincronización del correo",
+        "not_allow_sync": "Este servidor back-end no permite la sincronización de ajustes",
+        "where_ica": "Dónde puedo obtener mi subscripción del calendario",
+        "where_ica_body": "Vaya a <a href=\"https://timetables.manchester.ac.uk/\" target=\"_blank\" rel=\"noreferrer noopener\">, esta página</a>，y tras iniciar sesión haga clic en el botón de \"Subscribe\" en la parte de arriba derecha，más tarde a \"More\", \"Copy\"，respectivamente, y copie el URL obtenido.",
+        "privacy_policy": "Política de Privacidad",
+        "privacy_policy_body": "Si la \"Configuración de sincronización \" no está activada, <strong> el servidor back-end no almacenará ni retendrá la información de su cuenta de UoM </strong>, incluidos el nombre de usuario, la contraseña, el correo electrónico, las notas y más. Sin embargo, para acceder a sus notas, correos electrónicos, asistencia, etc. desde los sistemas de UoM, la información de su cuenta de UoM se transferirá de forma segura al back-end (pero no se conservará). <br> <br> Cuando la \"Configuración de sincronización \" está activada, <strong> su nombre de usuario, contraseña y correo electrónico se almacenarán en el back-end </strong>, pero no se almacenará ninguna otra información.",
+        "ok": "OK"
     }
 }
 </i18n>

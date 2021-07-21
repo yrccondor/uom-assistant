@@ -791,6 +791,21 @@ export default {
         "remain_min": "%d 分钟",
         "remain_min_plural": "%d 分钟",
         "expired": "已过期"
+    },
+    "es": {
+        "coursework": "Trabajo de curso",
+        "add_coursework": "Añadir un trabajo de curso",
+        "ddl_date": "Fecha límite",
+        "ddl_time": "Hora límite",
+        "subject": "Asignatura",
+        "no_subject": "Asignatura no encontrada",
+        "remain_day": "{0} Día",
+        "remain_day_plural": "{0} Días",
+        "remain_hour": "{0} Hora",
+        "remain_hour_plural": "{0} Horas",
+        "remain_min": "{0} Minuto",
+        "remain_min_plural": "{0} Minutos",
+        "expired": "Retraso"
     }
 }
 </i18n>

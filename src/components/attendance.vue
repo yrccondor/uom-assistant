@@ -328,6 +328,15 @@ export default {
         "cannot_fetch": "无法获取出勤信息，可能是没有正确配置后端信息或后端不允许。",
         "learn_more": "了解更多",
         "absent": "缺勤"
+    },
+    "es": {
+        "attendance": "Asistencia",
+        "annual": "Anual",
+        "last_month": "Mes pasado",
+        "nothing": "No registro de ausencia",
+        "cannot_fetch": "No ha sido posible obtener los datos de asistencia, puede ser debido al inopropiado configurado servidor back-end o falta de permisión.",
+        "learn_more": "Saber más",
+        "absent": "Ausente"
     }
 }
 </i18n>

@@ -860,6 +860,17 @@ export default {
         "preview": "预览视图",
         "head_row": "首行作为表头：已开启",
         "no_head_row": "首行作为表头：已关闭"
+    },
+    "es": {
+        "close": "Cerrar",
+        "download": "Descargar",
+        "audio_unsupported": "Su navegador no admite la reproducción de audio",
+        "video_unsupported": "Su navegador no admite la reproducción de video.",
+        "breakline": "Cambiar de línea",
+        "raw_view": "Vista original",
+        "preview": "Vista prevía",
+        "head_row": "Usar la primera línea como encabezado: habilitado",
+        "no_head_row": "Usar la primera línea como encabezado: deshabilitado"
     }
 }
 </i18n>

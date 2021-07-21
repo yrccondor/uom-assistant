@@ -678,6 +678,37 @@ export default {
         "ok": "好",
         "quick_zoom": "快速启动 Zoom 会议",
         "quick_teams": "快速启动 Teams 会议"
+    },
+    "es": {
+        "subjects": "Administrar asignaturas",
+        "nothing": "No asignaturas todavía",
+        "name": "Nombre",
+        "actions": "Acción",
+        "add_subject": "Añadir asignatura",
+        "edit_subject": "Editar asignatura",
+        "cancel": "Cancelar",
+        "save": "Guardar",
+        "add": "Añadir",
+        "delete": "Eliminar",
+        "subject_name": "Nombre de asignatura *",
+        "subject_name_hint": "E.g. Mathematical Techniques",
+        "short_name": "Nombre corto *",
+        "short_name_hint": "E.g. Math",
+        "subject_number": "Número de asginatura *",
+        "subject_number_hint": "E.g. COMP11120",
+        "subject_home": "Página principal de la asignatura *",
+        "subject_color": "Color de asignatura",
+        "hide_subject": "Esconder esta asignatura",
+        "add_link": "Añadir enlace de una sesión online",
+        "link_format": "URL[ nombre][ contraseña]",
+        "delete_subject": "Eliminar asignatura",
+        "delete_subject_text": "Está seguro de eliminar la asignatura",
+        "delete_subject_mark": "?",
+        "error": "No se ha podido guardar",
+        "same_id": "Este número de asignatura ya está conectada a otra asignatura. Cambios no se ha guardado.",
+        "ok": "OK",
+        "quick_zoom": "Acceder a Zoom",
+        "quick_teams": "Acceder a Teams"
     }
 }
 </i18n>

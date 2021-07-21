@@ -1341,6 +1341,37 @@ export default {
         "too_many_body": "这不是一个错误。你正在创建超过 50 个笔记，这不是一个好主意。请考虑将它们移动到笔记管理应用等更合适的地方。无论如何，你仍然可以继续使用快速笔记。",
         "hl_error": "在创建代码高亮时出错",
         "at": "于"
+    },
+    "es": {
+        "note": "Apuntes rápidos",
+        "nothing": "No hay apuntes todavía",
+        "new_note": "Nuevo apunte",
+        "title_placeholder": "Título del apunte",
+        "md_support": "Markdown aplicable",
+        "view": "Ver",
+        "edit": "Editar",
+        "new": "Nuevo",
+        "download": "Descargar",
+        "delete": "Eliminar",
+        "select": "Selección múltiples",
+        "untitled": "Sin título",
+        "num_selected": "{0} seleccionado",
+        "select_all": "Seleccionar todos",
+        "select_none": "Dejar de seleccionar",
+        "cancel_select": "Salir de selección múltiples",
+        "delete_selected": "Eliminar lo seleccionado",
+        "download_selected": "Descargar lo seleccionado",
+        "confirm": "Confirmar",
+        "cancel": "Cancelar",
+        "ok": "OK",
+        "want_remove": "Está seguro de eliminar {0} apunte seleccionado?",
+        "want_remove_single": "Está seguro de eliminar {0}?",
+        "want_remove_plural": "Está seguro de eliminar los {0} apuntes elegido",
+        "remove_all": "Está seguro de eliminar todos los apuntes?",
+        "too_many_title": "Demasiados apuntes quizás",
+        "too_many_body": "Esto no es un error. Está creando más de 50 apuntes, que no es una buena idea. Por favor considere usar una aplicación para organizar apuntes en lugar de apuntes rápidos. Puedes continuar a usar apuntes rápidos de todas formas.",
+        "hl_error": "Error cuando intenta subrayar al código",
+        "at": "en"
     }
 }
 </i18n>

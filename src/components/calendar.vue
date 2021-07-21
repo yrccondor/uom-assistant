@@ -902,6 +902,23 @@ export default {
         "quick_teams": "快速启动 Teams 会议",
         "copy_passcode": "复制密码",
         "self_study": "（自学）"
+    },
+    "es": {
+        "today": "Hoy",
+        "day": "Día",
+        "week": "Semana",
+        "month": "Mes",
+        "from": "Desde: ",
+        "to": "Hasta: ",
+        "course_ddl": "Fecha límite para trabajo de curso",
+        "coursework": "Trabajo de curso",
+        "subject_home": "Página principal de asignatura",
+        "ical_error": "No ha sido posible analizar los archivos ical.",
+        "network_error_body": "No ha sido posible obtener los últimos eventos desde la subscripción del calendario.",
+        "quick_zoom": "Acceder a Zoom",
+        "quick_teams": "Acceder a Teams",
+        "copy_passcode": "Copiar contraseña",
+        "self_study": " (Autoestudio) "
     }
 }
 </i18n>

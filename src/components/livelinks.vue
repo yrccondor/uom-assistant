@@ -240,6 +240,14 @@ export default {
         "quick_zoom": "快速启动 Zoom 会议",
         "quick_teams": "快速启动 Teams 会议",
         "copy_passcode": "复制密码"
+    },
+    "es": {
+        "live_links": "Enlaces de clases online",
+        "nothing": "No hay enlaces",
+        "no_class": "No hay clases todavía",
+        "quick_zoom": "Acceder a Zoom",
+        "quick_teams": "Acceder a Teams",
+        "copy_passcode": "Copiar contraseña"
     }
 }
 </i18n>
